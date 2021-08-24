@@ -5,10 +5,13 @@ body{
 .color{
     color: coral;
 }
-section{
+.flexivle-container{
     display: flex;
     margin-bottom: 100px;
 
+}
+.flexivle-container img{
+    width: 20%;
 }
 .half-width{
     width: 50%;
